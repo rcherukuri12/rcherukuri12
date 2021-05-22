@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raja
 - 👀 I'm an expert ML modeler.
-- 🌱 I’m currently trying to switch to Julia and make it my primary programming tool.
+- 🌱 I’m currently trying to switch to Julia and make it my primary language along with python in using ML.
 - 📫 rajac42.at.google's public email address.
 
 <!---
