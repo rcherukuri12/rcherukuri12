@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raja
-- 👀 I love digging deep into ML/RL theory and pratice.
+- 👀 I love digging deep into ML/RL theory and practice.
 - 🌱 I’m currently trying to adapt to Julia and enjoying coding in it.
 - 📫 rajac42.at.google's public email address.
 
